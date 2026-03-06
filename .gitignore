@@ -1,0 +1,11 @@
+# Python virtual environment
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Anaconda projects
+anaconda_projects/
+
+# Model files
+*.h5
