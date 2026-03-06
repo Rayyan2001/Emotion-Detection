@@ -1,0 +1,27 @@
+# Core Build
+Cython==0.29.36
+
+# Numerical & Data
+numpy==1.24.4
+pandas==1.5.3
+
+# Statistics & Machine Learning
+statsmodels==0.13.5
+scikit-learn==1.2.2
+prophet==1.1.5
+
+# Deep Learning (Stable Pair)
+tensorflow==2.10.1
+keras==2.10.0
+
+# Computer Vision
+opencv-python==4.7.0.72
+
+# Visualization
+matplotlib==3.5.3
+seaborn==0.12.2
+
+# Deployment & UI
+streamlit==1.22.0
+altair==4.2.2
+protobuf==3.19.6

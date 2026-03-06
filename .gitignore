@@ -9,3 +9,7 @@ anaconda_projects/
 
 # Model files
 *.h5
+
+# Data folders (too big for Git)
+train/
+test/
